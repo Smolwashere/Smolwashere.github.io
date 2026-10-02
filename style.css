@@ -60,3 +60,13 @@ body {
   color:white;
   text-shadow: 2px 2px black;
 }
+.Updatebutton {
+  border-radius:8px;
+  background: linear-gradient(white 1%, black 99%);
+}
+.Updatetext {
+  margin-top:3px;
+  margin-bottom:4px;
+  color:white;
+  text-shadow: 2px 2px black;
+}
