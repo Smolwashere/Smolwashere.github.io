@@ -15,10 +15,14 @@ body {
   border-radius:8px;
   background: linear-gradient(red 10%, maroon 90%);
   width:150px;
+  margin-top:5px;
+  margin-bottom:5px;
 }
 .socials {
   color:white;
   text-shadow: 2px 2px black;
+  margin-top:5px;
+  margin-bottom:5px;
 }
 .twitchbutton {
   border-radius:8px;
