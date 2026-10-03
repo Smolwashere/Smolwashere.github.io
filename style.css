@@ -10,19 +10,18 @@ body {
 .youtubetext {
   color:white;
   text-shadow: 2px 2px black;
+  margin-right:5px;
 }
 .SM {
   border-radius:8px;
   background: linear-gradient(red 10%, maroon 90%);
   width:150px;
-  margin-top:5px;
-  margin-bottom:5px;
 }
 .socials {
   color:white;
   text-shadow: 2px 2px black;
   margin-top:5px;
-  margin-bottom:5px;
+  margin-bottom:2px;
 }
 .twitchbutton {
   border-radius:8px;
@@ -73,4 +72,33 @@ body {
   margin-bottom:4px;
   color:white;
   text-shadow: 2px 2px black;
+}
+.robloxbutton {
+  border-radius: 8px;
+  background: linear-gradient(
+    black 5%, white 95%);
+  margin-top: 5px;
+  width:150px;
+}
+.robloxtext {
+  color:white;
+  text-shadow: 2px 2px black;
+}
+.clipchampbutton {
+  border-radius: 8px;
+  background: linear-gradient(
+    #984afd 5%, #bc80ff 95%);
+  width:150px;
+}
+.clipchamptext {
+  color:white;
+  text-shadow: 2px 2px black;
+}
+.YC {
+  display:flex;
+  gap:5px;
+}
+.bar {
+  display:flex;
+  gap:5px;
 }
