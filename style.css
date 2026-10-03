@@ -15,7 +15,6 @@ body {
 .SM {
   border-radius:8px;
   background: linear-gradient(red 10%, maroon 90%);
-  width:150px;
 }
 .socials {
   color:white;
@@ -26,7 +25,6 @@ body {
 .twitchbutton {
   border-radius:8px;
   background: linear-gradient(violet 10%, purple 90%);
-  margin-top:5px;
   width:150px;
 }
 .twitchtext {
@@ -36,7 +34,6 @@ body {
 .spotifybutton {
   border-radius:8px;
   background: linear-gradient(limegreen 15%, green 85%);
-  margin-top:5px;
   width:150px;
 }
 .spotifytext {
@@ -46,7 +43,6 @@ body {
 .discordbutton {
   border-radius: 8px;
   background: linear-gradient(#7289DA 10%, #5865F2 90%);
-  margin-top: 5px;
   width:150px;
 }
 .discordtext {
@@ -77,7 +73,6 @@ body {
   border-radius: 8px;
   background: linear-gradient(
     black 5%, white 95%);
-  margin-top: 5px;
   width:150px;
 }
 .robloxtext {
@@ -101,4 +96,11 @@ body {
 .bar {
   display:flex;
   gap:5px;
+  margin-left:735px;
+}
+.toptext {
+  margin-left:750px;
+}
+.guide {
+  margin-left:650px;
 }
